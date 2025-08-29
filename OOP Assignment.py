@@ -45,7 +45,7 @@ phone2 = Smartphone("Samsung", "Galaxy S24", "Android", "512GB")
 tablet1 = Tablet("Microsoft", "Surface Pro 9", 13)
 
 # Test methods
-print(phone1.turn_on())       # Polymorphism in action
+print(phone1.turn_on())       # Polymorphism 
 print(phone1.take_photo())    
 print(phone2.install_app("WhatsApp"))
 print(tablet1.draw_sketch())
